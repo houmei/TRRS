@@ -4,7 +4,7 @@ Schematic
 ![schematic](img/TRRSV01L01-sch.png)
 
 PCB
-![pcb](img/TRRS01L01-pcb.png)
+![pcb](img/TRRSV01L01-pcb.png)
 
 部品表  
 
